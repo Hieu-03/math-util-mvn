@@ -4,4 +4,4 @@
 
 * Comming soon...
 
-#### Copyright &@169; 2023 Ngọc.Hiếu
+#### Copyright &#169; 2023 Ngọc.Hiếu
